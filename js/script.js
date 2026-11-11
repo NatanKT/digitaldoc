@@ -1,5 +1,5 @@
 // ===== Pengaturan nomor WhatsApp (ganti dengan nomor asli, format 62xxx) =====
-const WA_NUMBER = '6281200000000';
+const WA_NUMBER = '6281919122406';
 
 // Mobile menu
 const burger = document.getElementById('burger');
